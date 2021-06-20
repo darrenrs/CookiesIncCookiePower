@@ -1,0 +1,1162 @@
+[
+  {
+    "Id": 1,
+    "Set": "Classic",
+    "InternalName": "ChocolateChip"
+  },
+  {
+    "Id": 2,
+    "Set": "Classic",
+    "InternalName": "PeanutButter"
+  },
+  {
+    "Id": 3,
+    "Set": "Classic",
+    "InternalName": "Oatmeal"
+  },
+  {
+    "Id": 4,
+    "Set": "Classic",
+    "InternalName": "Eaten"
+  },
+  {
+    "Id": 5,
+    "Set": "Classic",
+    "InternalName": "Swirl"
+  },
+  {
+    "Id": 6,
+    "Set": "Classic",
+    "InternalName": "Fortune"
+  },
+  {
+    "Id": 7,
+    "Set": "Classic",
+    "InternalName": "Burnt"
+  },
+  {
+    "Id": 8,
+    "Set": "Classic",
+    "InternalName": "Butter"
+  },
+  {
+    "Id": 9,
+    "Set": "Chocolatey",
+    "InternalName": "DarkChocolate"
+  },
+  {
+    "Id": 10,
+    "Set": "Chocolatey",
+    "InternalName": "ChocolateSquare"
+  },
+  {
+    "Id": 11,
+    "Set": "Chocolatey",
+    "InternalName": "Rainbow"
+  },
+  {
+    "Id": 12,
+    "Set": "Chocolatey",
+    "InternalName": "WhiteChocolate"
+  },
+  {
+    "Id": 13,
+    "Set": "Chocolatey",
+    "InternalName": "ChocolateFilled"
+  },
+  {
+    "Id": 14,
+    "Set": "Chocolatey",
+    "InternalName": "Checkerboard"
+  },
+  {
+    "Id": 15,
+    "Set": "Chocolatey",
+    "InternalName": "ChocolateSwirl"
+  },
+  {
+    "Id": 16,
+    "Set": "Chocolatey",
+    "InternalName": "Caramel"
+  },
+  {
+    "Id": 17,
+    "Set": "Unusual",
+    "InternalName": "Marshmallow"
+  },
+  {
+    "Id": 18,
+    "Set": "Unusual",
+    "InternalName": "Spicy"
+  },
+  {
+    "Id": 19,
+    "Set": "Unusual",
+    "InternalName": "Sticky"
+  },
+  {
+    "Id": 20,
+    "Set": "Unusual",
+    "InternalName": "Bacon"
+  },
+  {
+    "Id": 21,
+    "Set": "Unusual",
+    "InternalName": "Cheese"
+  },
+  {
+    "Id": 22,
+    "Set": "Unusual",
+    "InternalName": "CoffeeBean"
+  },
+  {
+    "Id": 23,
+    "Set": "Unusual",
+    "InternalName": "Mutated"
+  },
+  {
+    "Id": 24,
+    "Set": "Unusual",
+    "InternalName": "Rotten"
+  },
+  {
+    "Id": 25,
+    "Set": "Cosmic",
+    "InternalName": "BlueMoon"
+  },
+  {
+    "Id": 26,
+    "Set": "Cosmic",
+    "InternalName": "Cactus"
+  },
+  {
+    "Id": 27,
+    "Set": "Cosmic",
+    "InternalName": "Hypernova"
+  },
+  {
+    "Id": 28,
+    "Set": "Cosmic",
+    "InternalName": "Funky"
+  },
+  {
+    "Id": 29,
+    "Set": "Cosmic",
+    "InternalName": "Mech"
+  },
+  {
+    "Id": 30,
+    "Set": "Cosmic",
+    "InternalName": "Plasma"
+  },
+  {
+    "Id": 31,
+    "Set": "Cosmic",
+    "InternalName": "UltimateGem"
+  },
+  {
+    "Id": 32,
+    "Set": "Cosmic",
+    "InternalName": "Magic"
+  },
+  {
+    "Id": 33,
+    "Set": "Fruit",
+    "InternalName": "Rasberry"
+  },
+  {
+    "Id": 34,
+    "Set": "Fruit",
+    "InternalName": "Blueberry"
+  },
+  {
+    "Id": 35,
+    "Set": "Fruit",
+    "InternalName": "Lime"
+  },
+  {
+    "Id": 36,
+    "Set": "Fruit",
+    "InternalName": "Strawberry"
+  },
+  {
+    "Id": 37,
+    "Set": "Fruit",
+    "InternalName": "Banana"
+  },
+  {
+    "Id": 38,
+    "Set": "Fruit",
+    "InternalName": "GreenPea"
+  },
+  {
+    "Id": 39,
+    "Set": "Fruit",
+    "InternalName": "Lemon"
+  },
+  {
+    "Id": 40,
+    "Set": "Fruit",
+    "InternalName": "StrawberryShortcake"
+  },
+  {
+    "Id": 41,
+    "Set": "Fancy",
+    "InternalName": "Split"
+  },
+  {
+    "Id": 42,
+    "Set": "Fancy",
+    "InternalName": "Twist"
+  },
+  {
+    "Id": 43,
+    "Set": "Fancy",
+    "InternalName": "Pixel"
+  },
+  {
+    "Id": 44,
+    "Set": "Fancy",
+    "InternalName": "Pineapple"
+  },
+  {
+    "Id": 45,
+    "Set": "Fancy",
+    "InternalName": "Cinnamon"
+  },
+  {
+    "Id": 46,
+    "Set": "Fancy",
+    "InternalName": "RedVelvet"
+  },
+  {
+    "Id": 47,
+    "Set": "Fancy",
+    "InternalName": "ApplePie"
+  },
+  {
+    "Id": 48,
+    "Set": "Fancy",
+    "InternalName": "Truffle"
+  },
+  {
+    "Id": 49,
+    "Set": "Nutty",
+    "InternalName": "Pecan"
+  },
+  {
+    "Id": 50,
+    "Set": "Nutty",
+    "InternalName": "Almond"
+  },
+  {
+    "Id": 51,
+    "Set": "Nutty",
+    "InternalName": "AppleNut"
+  },
+  {
+    "Id": 52,
+    "Set": "Nutty",
+    "InternalName": "CaramelMacadamia"
+  },
+  {
+    "Id": 53,
+    "Set": "Nutty",
+    "InternalName": "Pistachio"
+  },
+  {
+    "Id": 54,
+    "Set": "Nutty",
+    "InternalName": "AlmondCrisp"
+  },
+  {
+    "Id": 55,
+    "Set": "Nutty",
+    "InternalName": "Cashew"
+  },
+  {
+    "Id": 56,
+    "Set": "Nutty",
+    "InternalName": "CaramelAlmond"
+  },
+  {
+    "Id": 57,
+    "Set": "Chunky",
+    "InternalName": "HotDog"
+  },
+  {
+    "Id": 58,
+    "Set": "Chunky",
+    "InternalName": "Fried"
+  },
+  {
+    "Id": 59,
+    "Set": "Chunky",
+    "InternalName": "SaltPretzel"
+  },
+  {
+    "Id": 60,
+    "Set": "Chunky",
+    "InternalName": "Toffee"
+  },
+  {
+    "Id": 61,
+    "Set": "Chunky",
+    "InternalName": "MeatLover"
+  },
+  {
+    "Id": 62,
+    "Set": "Chunky",
+    "InternalName": "Cheesecake"
+  },
+  {
+    "Id": 63,
+    "Set": "Chunky",
+    "InternalName": "CaramelGooey"
+  },
+  {
+    "Id": 64,
+    "Set": "Chunky",
+    "InternalName": "Popcorn"
+  },
+  {
+    "Id": 65,
+    "Set": "Community I",
+    "InternalName": "Atomic"
+  },
+  {
+    "Id": 66,
+    "Set": "Community I",
+    "InternalName": "Cartoon"
+  },
+  {
+    "Id": 67,
+    "Set": "Community I",
+    "InternalName": "Leafy"
+  },
+  {
+    "Id": 68,
+    "Set": "Community I",
+    "InternalName": "CommunityRobot"
+  },
+  {
+    "Id": 69,
+    "Set": "Community I",
+    "InternalName": "Hairy"
+  },
+  {
+    "Id": 70,
+    "Set": "Community I",
+    "InternalName": "Pixelcube"
+  },
+  {
+    "Id": 71,
+    "Set": "Community I",
+    "InternalName": "Thunder"
+  },
+  {
+    "Id": 72,
+    "Set": "Community I",
+    "InternalName": "Splitfire"
+  },
+  {
+    "Id": 73,
+    "Set": "Organic",
+    "InternalName": "Healthy"
+  },
+  {
+    "Id": 74,
+    "Set": "Organic",
+    "InternalName": "Flax"
+  },
+  {
+    "Id": 75,
+    "Set": "Organic",
+    "InternalName": "Date"
+  },
+  {
+    "Id": 76,
+    "Set": "Organic",
+    "InternalName": "CrispyChai"
+  },
+  {
+    "Id": 77,
+    "Set": "Organic",
+    "InternalName": "SuperSeed"
+  },
+  {
+    "Id": 78,
+    "Set": "Organic",
+    "InternalName": "GreenTea"
+  },
+  {
+    "Id": 79,
+    "Set": "Organic",
+    "InternalName": "SeaweedSesame"
+  },
+  {
+    "Id": 80,
+    "Set": "Organic",
+    "InternalName": "ChocolateSesame"
+  },
+  {
+    "Id": 81,
+    "Set": "Animal",
+    "InternalName": "AnimalPig"
+  },
+  {
+    "Id": 82,
+    "Set": "Animal",
+    "InternalName": "AnimalBird"
+  },
+  {
+    "Id": 83,
+    "Set": "Animal",
+    "InternalName": "AnimalTurtle"
+  },
+  {
+    "Id": 84,
+    "Set": "Animal",
+    "InternalName": "AnimalDolphin"
+  },
+  {
+    "Id": 85,
+    "Set": "Animal",
+    "InternalName": "AnimalFlamingo"
+  },
+  {
+    "Id": 86,
+    "Set": "Animal",
+    "InternalName": "AnimalLion"
+  },
+  {
+    "Id": 87,
+    "Set": "Animal",
+    "InternalName": "AnimalHippo"
+  },
+  {
+    "Id": 88,
+    "Set": "Animal",
+    "InternalName": "AnimalCow"
+  },
+  {
+    "Id": 89,
+    "Set": "Element",
+    "InternalName": "ElementWater"
+  },
+  {
+    "Id": 90,
+    "Set": "Element",
+    "InternalName": "ElementDark"
+  },
+  {
+    "Id": 91,
+    "Set": "Element",
+    "InternalName": "ElementGrass"
+  },
+  {
+    "Id": 92,
+    "Set": "Element",
+    "InternalName": "ElementStone"
+  },
+  {
+    "Id": 93,
+    "Set": "Element",
+    "InternalName": "ElementWind"
+  },
+  {
+    "Id": 94,
+    "Set": "Element",
+    "InternalName": "ElementFire"
+  },
+  {
+    "Id": 95,
+    "Set": "Element",
+    "InternalName": "ElementEarth"
+  },
+  {
+    "Id": 96,
+    "Set": "Element",
+    "InternalName": "ElementElectric"
+  },
+  {
+    "Id": 97,
+    "Set": "Frosted",
+    "InternalName": "FrostedWhitePistachio"
+  },
+  {
+    "Id": 98,
+    "Set": "Frosted",
+    "InternalName": "FrostedLavender"
+  },
+  {
+    "Id": 99,
+    "Set": "Frosted",
+    "InternalName": "FrostedChocolateCherry"
+  },
+  {
+    "Id": 100,
+    "Set": "Frosted",
+    "InternalName": "FrostedChocolateCoconut"
+  },
+  {
+    "Id": 101,
+    "Set": "Frosted",
+    "InternalName": "FrostedDulceDeLeche"
+  },
+  {
+    "Id": 102,
+    "Set": "Frosted",
+    "InternalName": "FrostedKeyLime"
+  },
+  {
+    "Id": 103,
+    "Set": "Frosted",
+    "InternalName": "FrostedChocolateMountain"
+  },
+  {
+    "Id": 104,
+    "Set": "Frosted",
+    "InternalName": "FrostedCandyCane"
+  },
+  {
+    "Id": 105,
+    "Set": "Planet",
+    "InternalName": "PlanetMercury"
+  },
+  {
+    "Id": 106,
+    "Set": "Planet",
+    "InternalName": "PlanetVenus"
+  },
+  {
+    "Id": 107,
+    "Set": "Planet",
+    "InternalName": "PlanetEarth"
+  },
+  {
+    "Id": 108,
+    "Set": "Planet",
+    "InternalName": "PlanetMars"
+  },
+  {
+    "Id": 109,
+    "Set": "Planet",
+    "InternalName": "PlanetJupiter"
+  },
+  {
+    "Id": 110,
+    "Set": "Planet",
+    "InternalName": "PlanetSaturn"
+  },
+  {
+    "Id": 111,
+    "Set": "Planet",
+    "InternalName": "PlanetUranus"
+  },
+  {
+    "Id": 112,
+    "Set": "Planet",
+    "InternalName": "PlanetNeptune"
+  },
+  {
+    "Id": 113,
+    "Set": "Sugar Rush",
+    "InternalName": "SugarRush1"
+  },
+  {
+    "Id": 114,
+    "Set": "Sugar Rush",
+    "InternalName": "SugarRush2"
+  },
+  {
+    "Id": 115,
+    "Set": "Sugar Rush",
+    "InternalName": "SugarRush3"
+  },
+  {
+    "Id": 116,
+    "Set": "Sugar Rush",
+    "InternalName": "SugarRush4"
+  },
+  {
+    "Id": 117,
+    "Set": "Sugar Rush",
+    "InternalName": "SugarRush5"
+  },
+  {
+    "Id": 118,
+    "Set": "Sugar Rush",
+    "InternalName": "SugarRush6"
+  },
+  {
+    "Id": 119,
+    "Set": "Sugar Rush",
+    "InternalName": "SugarRush7"
+  },
+  {
+    "Id": 120,
+    "Set": "Sugar Rush",
+    "InternalName": "SugarRush8"
+  },
+  {
+    "Id": 121,
+    "Set": "Jam Packed",
+    "InternalName": "Filled1"
+  },
+  {
+    "Id": 122,
+    "Set": "Jam Packed",
+    "InternalName": "Filled2"
+  },
+  {
+    "Id": 123,
+    "Set": "Jam Packed",
+    "InternalName": "Filled3"
+  },
+  {
+    "Id": 124,
+    "Set": "Jam Packed",
+    "InternalName": "Filled4"
+  },
+  {
+    "Id": 125,
+    "Set": "Jam Packed",
+    "InternalName": "Filled5"
+  },
+  {
+    "Id": 126,
+    "Set": "Jam Packed",
+    "InternalName": "Filled6"
+  },
+  {
+    "Id": 127,
+    "Set": "Jam Packed",
+    "InternalName": "Filled7"
+  },
+  {
+    "Id": 128,
+    "Set": "Jam Packed",
+    "InternalName": "Filled8"
+  },
+  {
+    "Id": 129,
+    "Set": "Magical",
+    "InternalName": "Unicorn1"
+  },
+  {
+    "Id": 130,
+    "Set": "Magical",
+    "InternalName": "Unicorn2"
+  },
+  {
+    "Id": 131,
+    "Set": "Magical",
+    "InternalName": "Unicorn3"
+  },
+  {
+    "Id": 132,
+    "Set": "Magical",
+    "InternalName": "Unicorn4"
+  },
+  {
+    "Id": 133,
+    "Set": "Magical",
+    "InternalName": "Unicorn5"
+  },
+  {
+    "Id": 134,
+    "Set": "Magical",
+    "InternalName": "Unicorn6"
+  },
+  {
+    "Id": 135,
+    "Set": "Magical",
+    "InternalName": "Unicorn7"
+  },
+  {
+    "Id": 136,
+    "Set": "Magical",
+    "InternalName": "Unicorn8"
+  },
+  {
+    "Id": 137,
+    "Set": "Community II",
+    "InternalName": "CommunitySecond1"
+  },
+  {
+    "Id": 138,
+    "Set": "Community II",
+    "InternalName": "CommunitySecond2"
+  },
+  {
+    "Id": 139,
+    "Set": "Community II",
+    "InternalName": "CommunitySecond3"
+  },
+  {
+    "Id": 140,
+    "Set": "Community II",
+    "InternalName": "CommunitySecond4"
+  },
+  {
+    "Id": 141,
+    "Set": "Community II",
+    "InternalName": "CommunitySecond5"
+  },
+  {
+    "Id": 142,
+    "Set": "Community II",
+    "InternalName": "CommunitySecond6"
+  },
+  {
+    "Id": 143,
+    "Set": "Community II",
+    "InternalName": "CommunitySecond7"
+  },
+  {
+    "Id": 144,
+    "Set": "Community II",
+    "InternalName": "CommunitySecond8"
+  },
+  {
+    "Id": 145,
+    "Set": "Perfect Pair",
+    "InternalName": "PerfectPair1"
+  },
+  {
+    "Id": 146,
+    "Set": "Perfect Pair",
+    "InternalName": "PerfectPair2"
+  },
+  {
+    "Id": 147,
+    "Set": "Perfect Pair",
+    "InternalName": "PerfectPair3"
+  },
+  {
+    "Id": 148,
+    "Set": "Perfect Pair",
+    "InternalName": "PerfectPair4"
+  },
+  {
+    "Id": 149,
+    "Set": "Perfect Pair",
+    "InternalName": "PerfectPair5"
+  },
+  {
+    "Id": 150,
+    "Set": "Perfect Pair",
+    "InternalName": "PerfectPair6"
+  },
+  {
+    "Id": 151,
+    "Set": "Perfect Pair",
+    "InternalName": "PerfectPair7"
+  },
+  {
+    "Id": 152,
+    "Set": "Perfect Pair",
+    "InternalName": "PerfectPair8"
+  },
+  {
+    "Id": 153,
+    "Set": "Throwback",
+    "InternalName": "Throwback1"
+  },
+  {
+    "Id": 154,
+    "Set": "Throwback",
+    "InternalName": "Throwback2"
+  },
+  {
+    "Id": 155,
+    "Set": "Throwback",
+    "InternalName": "Throwback3"
+  },
+  {
+    "Id": 156,
+    "Set": "Throwback",
+    "InternalName": "Throwback4"
+  },
+  {
+    "Id": 157,
+    "Set": "Throwback",
+    "InternalName": "Throwback5"
+  },
+  {
+    "Id": 158,
+    "Set": "Throwback",
+    "InternalName": "Throwback6"
+  },
+  {
+    "Id": 159,
+    "Set": "Throwback",
+    "InternalName": "Throwback7"
+  },
+  {
+    "Id": 160,
+    "Set": "Throwback",
+    "InternalName": "Throwback8"
+  },
+  {
+    "Id": 161,
+    "Set": "Minty Fresh",
+    "InternalName": "Mint1"
+  },
+  {
+    "Id": 162,
+    "Set": "Minty Fresh",
+    "InternalName": "Mint2"
+  },
+  {
+    "Id": 163,
+    "Set": "Minty Fresh",
+    "InternalName": "Mint3"
+  },
+  {
+    "Id": 164,
+    "Set": "Minty Fresh",
+    "InternalName": "Mint4"
+  },
+  {
+    "Id": 165,
+    "Set": "Minty Fresh",
+    "InternalName": "Mint5"
+  },
+  {
+    "Id": 166,
+    "Set": "Minty Fresh",
+    "InternalName": "Mint6"
+  },
+  {
+    "Id": 167,
+    "Set": "Minty Fresh",
+    "InternalName": "Mint7"
+  },
+  {
+    "Id": 168,
+    "Set": "Minty Fresh",
+    "InternalName": "Mint8"
+  },
+  {
+    "Id": 169,
+    "Set": "Choc Delight",
+    "InternalName": "ChocDelight1"
+  },
+  {
+    "Id": 170,
+    "Set": "Choc Delight",
+    "InternalName": "ChocDelight2"
+  },
+  {
+    "Id": 171,
+    "Set": "Choc Delight",
+    "InternalName": "ChocDelight3"
+  },
+  {
+    "Id": 172,
+    "Set": "Choc Delight",
+    "InternalName": "ChocDelight4"
+  },
+  {
+    "Id": 173,
+    "Set": "Choc Delight",
+    "InternalName": "ChocDelight5"
+  },
+  {
+    "Id": 174,
+    "Set": "Choc Delight",
+    "InternalName": "ChocDelight6"
+  },
+  {
+    "Id": 175,
+    "Set": "Choc Delight",
+    "InternalName": "ChocDelight7"
+  },
+  {
+    "Id": 176,
+    "Set": "Choc Delight",
+    "InternalName": "ChocDelight8"
+  },
+  {
+    "Id": 177,
+    "Set": "Specialty",
+    "InternalName": "Specialty1"
+  },
+  {
+    "Id": 178,
+    "Set": "Specialty",
+    "InternalName": "Specialty2"
+  },
+  {
+    "Id": 179,
+    "Set": "Specialty",
+    "InternalName": "Specialty3"
+  },
+  {
+    "Id": 180,
+    "Set": "Specialty",
+    "InternalName": "Specialty4"
+  },
+  {
+    "Id": 181,
+    "Set": "Specialty",
+    "InternalName": "Specialty5"
+  },
+  {
+    "Id": 182,
+    "Set": "Specialty",
+    "InternalName": "Specialty6"
+  },
+  {
+    "Id": 183,
+    "Set": "Specialty",
+    "InternalName": "Specialty7"
+  },
+  {
+    "Id": 184,
+    "Set": "Specialty",
+    "InternalName": "Specialty8"
+  },
+  {
+    "Id": 185,
+    "Set": "Community III",
+    "InternalName": "CommunityThird1"
+  },
+  {
+    "Id": 186,
+    "Set": "Community III",
+    "InternalName": "CommunityThird2"
+  },
+  {
+    "Id": 187,
+    "Set": "Community III",
+    "InternalName": "CommunityThird3"
+  },
+  {
+    "Id": 188,
+    "Set": "Community III",
+    "InternalName": "CommunityThird4"
+  },
+  {
+    "Id": 189,
+    "Set": "Community III",
+    "InternalName": "CommunityThird5"
+  },
+  {
+    "Id": 190,
+    "Set": "Community III",
+    "InternalName": "CommunityThird6"
+  },
+  {
+    "Id": 191,
+    "Set": "Community III",
+    "InternalName": "CommunityThird7"
+  },
+  {
+    "Id": 192,
+    "Set": "Community III",
+    "InternalName": "CommunityThird8"
+  },
+  {
+    "Id": 193,
+    "Set": "Quirky",
+    "InternalName": "Quirky1"
+  },
+  {
+    "Id": 194,
+    "Set": "Quirky",
+    "InternalName": "Quirky2"
+  },
+  {
+    "Id": 195,
+    "Set": "Quirky",
+    "InternalName": "Quirky3"
+  },
+  {
+    "Id": 196,
+    "Set": "Quirky",
+    "InternalName": "Quirky4"
+  },
+  {
+    "Id": 197,
+    "Set": "Quirky",
+    "InternalName": "Quirky5"
+  },
+  {
+    "Id": 198,
+    "Set": "Quirky",
+    "InternalName": "Quirky6"
+  },
+  {
+    "Id": 199,
+    "Set": "Quirky",
+    "InternalName": "Quirky7"
+  },
+  {
+    "Id": 200,
+    "Set": "Quirky",
+    "InternalName": "Quirky8"
+  },
+  {
+    "Id": 201,
+    "Set": "Tangy",
+    "InternalName": "Tangy1"
+  },
+  {
+    "Id": 202,
+    "Set": "Tangy",
+    "InternalName": "Tangy2"
+  },
+  {
+    "Id": 203,
+    "Set": "Tangy",
+    "InternalName": "Tangy3"
+  },
+  {
+    "Id": 204,
+    "Set": "Tangy",
+    "InternalName": "Tangy4"
+  },
+  {
+    "Id": 205,
+    "Set": "Tangy",
+    "InternalName": "Tangy5"
+  },
+  {
+    "Id": 206,
+    "Set": "Tangy",
+    "InternalName": "Tangy6"
+  },
+  {
+    "Id": 207,
+    "Set": "Tangy",
+    "InternalName": "Tangy7"
+  },
+  {
+    "Id": 208,
+    "Set": "Tangy",
+    "InternalName": "Tangy8"
+  },
+  {
+    "Id": 209,
+    "Set": "Odd Shaped",
+    "InternalName": "OddShape1"
+  },
+  {
+    "Id": 210,
+    "Set": "Odd Shaped",
+    "InternalName": "OddShape2"
+  },
+  {
+    "Id": 211,
+    "Set": "Odd Shaped",
+    "InternalName": "OddShape3"
+  },
+  {
+    "Id": 212,
+    "Set": "Odd Shaped",
+    "InternalName": "OddShape4"
+  },
+  {
+    "Id": 213,
+    "Set": "Odd Shaped",
+    "InternalName": "OddShape5"
+  },
+  {
+    "Id": 214,
+    "Set": "Odd Shaped",
+    "InternalName": "OddShape6"
+  },
+  {
+    "Id": 215,
+    "Set": "Odd Shaped",
+    "InternalName": "OddShape7"
+  },
+  {
+    "Id": 216,
+    "Set": "Odd Shaped",
+    "InternalName": "OddShape8"
+  },
+  {
+    "Id": 217,
+    "Set": "Sweet Tooth",
+    "InternalName": "SweetTooth1"
+  },
+  {
+    "Id": 218,
+    "Set": "Sweet Tooth",
+    "InternalName": "SweetTooth2"
+  },
+  {
+    "Id": 219,
+    "Set": "Sweet Tooth",
+    "InternalName": "SweetTooth3"
+  },
+  {
+    "Id": 220,
+    "Set": "Sweet Tooth",
+    "InternalName": "SweetTooth4"
+  },
+  {
+    "Id": 221,
+    "Set": "Sweet Tooth",
+    "InternalName": "SweetTooth5"
+  },
+  {
+    "Id": 222,
+    "Set": "Sweet Tooth",
+    "InternalName": "SweetTooth6"
+  },
+  {
+    "Id": 223,
+    "Set": "Sweet Tooth",
+    "InternalName": "SweetTooth7"
+  },
+  {
+    "Id": 224,
+    "Set": "Sweet Tooth",
+    "InternalName": "SweetTooth8"
+  },
+  {
+    "Id": 225,
+    "Set": "Candy",
+    "InternalName": "Candy1"
+  },
+  {
+    "Id": 226,
+    "Set": "Candy",
+    "InternalName": "Candy2"
+  },
+  {
+    "Id": 227,
+    "Set": "Candy",
+    "InternalName": "Candy3"
+  },
+  {
+    "Id": 228,
+    "Set": "Candy",
+    "InternalName": "Candy4"
+  },
+  {
+    "Id": 229,
+    "Set": "Candy",
+    "InternalName": "Candy5"
+  },
+  {
+    "Id": 230,
+    "Set": "Candy",
+    "InternalName": "Candy6"
+  },
+  {
+    "Id": 231,
+    "Set": "Candy",
+    "InternalName": "Candy7"
+  },
+  {
+    "Id": 232,
+    "Set": "Candy",
+    "InternalName": "Candy8"
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "Id": 1,
+    "InternalName": "Grandma"
+  },
+  {
+    "Id": 2,
+    "InternalName": "RV"
+  },
+  {
+    "Id": 3,
+    "InternalName": "Factory"
+  },
+  {
+    "Id": 4,
+    "InternalName": "Hovercraft"
+  },
+  {
+    "Id": 5,
+    "InternalName": "Airdrop"
+  },
+  {
+    "Id": 6,
+    "InternalName": "Ship"
+  },
+  {
+    "Id": 7,
+    "InternalName": "Rocket"
+  },
+  {
+    "Id": 8,
+    "InternalName": "Satellite"
+  },
+  {
+    "Id": 9,
+    "InternalName": "Ufo"
+  },
+  {
+    "Id": 10,
+    "InternalName": "Transport"
+  }
+]

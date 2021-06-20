@@ -1,0 +1,42 @@
+[
+  {
+    "Id": 1,
+    "InternalName": "Cookie1"
+  },
+  {
+    "Id": 2,
+    "InternalName": "Cookie2"
+  },
+  {
+    "Id": 3,
+    "InternalName": "Cookie3"
+  },
+  {
+    "Id": 4,
+    "InternalName": "Cookie4"
+  },
+  {
+    "Id": 5,
+    "InternalName": "Cookie5"
+  },
+  {
+    "Id": 6,
+    "InternalName": "Cookie6"
+  },
+  {
+    "Id": 7,
+    "InternalName": "Cookie7"
+  },
+  {
+    "Id": 8,
+    "InternalName": "Cookie8"
+  },
+  {
+    "Id": 9,
+    "InternalName": "Cookie9"
+  },
+  {
+    "Id": 10,
+    "InternalName": "Cookie10"
+  }
+]

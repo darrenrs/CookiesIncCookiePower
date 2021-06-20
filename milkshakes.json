@@ -1,0 +1,150 @@
+[
+  {
+    "Id": "1",
+    "InternalName": "Normal"
+  },
+  {
+    "Id": "2",
+    "InternalName": "Chocolate"
+  },
+  {
+    "Id": "3",
+    "InternalName": "Organic"
+  },
+  {
+    "Id": "4",
+    "InternalName": "Strawberry"
+  },
+  {
+    "Id": "5",
+    "InternalName": "Banana"
+  },
+  {
+    "Id": "6",
+    "InternalName": "Almond"
+  },
+  {
+    "Id": "7",
+    "InternalName": "Butter"
+  },
+  {
+    "Id": "8",
+    "InternalName": "Coconut"
+  },
+  {
+    "Id": "9",
+    "InternalName": "Muscle"
+  },
+  {
+    "Id": "10",
+    "InternalName": "Soy"
+  },
+  {
+    "Id": "11",
+    "InternalName": "Radioactive"
+  },
+  {
+    "Id": "12",
+    "InternalName": "Rice"
+  },
+  {
+    "Id": "13",
+    "InternalName": "Goat"
+  },
+  {
+    "Id": "14",
+    "InternalName": "RealCondensed"
+  },
+  {
+    "Id": "15",
+    "InternalName": "Vanilla"
+  },
+  {
+    "Id": "16",
+    "InternalName": "Avocado"
+  },
+  {
+    "Id": "17",
+    "InternalName": "Ancient"
+  },
+  {
+    "Id": "18",
+    "InternalName": "Honey"
+  },
+  {
+    "Id": "19",
+    "InternalName": "Enriched"
+  },
+  {
+    "Id": "20",
+    "InternalName": "MixedBerry"
+  },
+  {
+    "Id": "21",
+    "InternalName": "Baby"
+  },
+  {
+    "Id": "22",
+    "InternalName": "BubbleTea"
+  },
+  {
+    "Id": "23",
+    "InternalName": "Mint"
+  },
+  {
+    "Id": "24",
+    "InternalName": "Pumpkin"
+  },
+  {
+    "Id": "25",
+    "InternalName": "Bagged"
+  },
+  {
+    "Id": "26",
+    "InternalName": "Eggnog"
+  },
+  {
+    "Id": "27",
+    "InternalName": "Condensed"
+  },
+  {
+    "Id": "28",
+    "InternalName": "Fairy"
+  },
+  {
+    "Id": "29",
+    "InternalName": "Ranch"
+  },
+  {
+    "Id": "30",
+    "InternalName": "Experimental"
+  },
+  {
+    "Id": "31",
+    "InternalName": "Oat"
+  },
+  {
+    "Id": "32",
+    "InternalName": "DragonFruit"
+  },
+  {
+    "Id": "33",
+    "InternalName": "Hipster"
+  },
+  {
+    "Id": "34",
+    "InternalName": "Designer"
+  },
+  {
+    "Id": "35",
+    "InternalName": "Pouch"
+  },
+  {
+    "Id": "36",
+    "InternalName": "Skim"
+  },
+  {
+    "Id": "37",
+    "InternalName": "Handcrafted"
+  }
+]

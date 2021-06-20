@@ -1,0 +1,42 @@
+[
+  {
+    "Id": "1",
+    "Coefficient": 500
+  },
+  {
+    "Id": "2",
+    "Coefficient": 1000
+  },
+  {
+    "Id": "3",
+    "Coefficient": 1500
+  },
+  {
+    "Id": "4",
+    "Coefficient": 2000
+  },
+  {
+    "Id": "5",
+    "Coefficient": 2500
+  },
+  {
+    "Id": "6",
+    "Coefficient": 3000
+  },
+  {
+    "Id": "7",
+    "Coefficient": 3500
+  },
+  {
+    "Id": "8",
+    "Coefficient": 4000
+  },
+  {
+    "Id": "9",
+    "Coefficient": 0
+  },
+  {
+    "Id": "10",
+    "Coefficient": 0
+  }
+]

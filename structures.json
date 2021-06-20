@@ -1,0 +1,262 @@
+[
+  {
+    "Id": "1",
+    "InternalName": "CookiePress"
+  },
+  {
+    "Id": "2",
+    "InternalName": "Baker"
+  },
+  {
+    "Id": "3",
+    "InternalName": "Dispenser"
+  },
+  {
+    "Id": "4",
+    "InternalName": "Well"
+  },
+  {
+    "Id": "5",
+    "InternalName": "Stand"
+  },
+  {
+    "Id": "6",
+    "InternalName": "Tree"
+  },
+  {
+    "Id": "7",
+    "InternalName": "Generator"
+  },
+  {
+    "Id": "8",
+    "InternalName": "Train"
+  },
+  {
+    "Id": "9",
+    "InternalName": "Farm"
+  },
+  {
+    "Id": "10",
+    "InternalName": "Robot"
+  },
+  {
+    "Id": "11",
+    "InternalName": "Waterfall"
+  },
+  {
+    "Id": "12",
+    "InternalName": "Temple"
+  },
+  {
+    "Id": "13",
+    "InternalName": "Volcano"
+  },
+  {
+    "Id": "14",
+    "InternalName": "Mine"
+  },
+  {
+    "Id": "15",
+    "InternalName": "Storm"
+  },
+  {
+    "Id": "16",
+    "InternalName": "Bank"
+  },
+  {
+    "Id": "17",
+    "InternalName": "Cloner"
+  },
+  {
+    "Id": "18",
+    "InternalName": "Lottery"
+  },
+  {
+    "Id": "19",
+    "InternalName": "Vortex"
+  },
+  {
+    "Id": "20",
+    "InternalName": "DarkMatter"
+  },
+  {
+    "Id": "21",
+    "InternalName": "Friend1"
+  },
+  {
+    "Id": "22",
+    "InternalName": "Friend2"
+  },
+  {
+    "Id": "23",
+    "InternalName": "Friend3"
+  },
+  {
+    "Id": "24",
+    "InternalName": "Friend4"
+  },
+  {
+    "Id": "25",
+    "InternalName": "Friend5"
+  },
+  {
+    "Id": "26",
+    "InternalName": "GrowthRay"
+  },
+  {
+    "Id": "27",
+    "InternalName": "Splitter"
+  },
+  {
+    "Id": "28",
+    "InternalName": "Teleporter"
+  },
+  {
+    "Id": "29",
+    "InternalName": "Printer"
+  },
+  {
+    "Id": "30",
+    "InternalName": "MagicFactory"
+  },
+  {
+    "Id": "31",
+    "InternalName": "ParticleAccel"
+  },
+  {
+    "Id": "32",
+    "InternalName": "Unicorn"
+  },
+  {
+    "Id": "33",
+    "InternalName": "Nanotech"
+  },
+  {
+    "Id": "34",
+    "InternalName": "MagicHat"
+  },
+  {
+    "Id": "35",
+    "InternalName": "RoyalBaker"
+  },
+  {
+    "Id": "36",
+    "InternalName": "PoliceBox"
+  },
+  {
+    "Id": "37",
+    "InternalName": "Disruptor"
+  },
+  {
+    "Id": "38",
+    "InternalName": "GrowthCannon"
+  },
+  {
+    "Id": "39",
+    "InternalName": "Portal"
+  },
+  {
+    "Id": "40",
+    "InternalName": "Digitizer"
+  },
+  {
+    "Id": "41",
+    "InternalName": "Sun"
+  },
+  {
+    "Id": "42",
+    "InternalName": "Steampunk"
+  },
+  {
+    "Id": "43",
+    "InternalName": "Nuclear"
+  },
+  {
+    "Id": "44",
+    "InternalName": "MagicBox"
+  },
+  {
+    "Id": "45",
+    "InternalName": "Summoner"
+  },
+  {
+    "Id": "46",
+    "InternalName": "Building46"
+  },
+  {
+    "Id": "47",
+    "InternalName": "Building47"
+  },
+  {
+    "Id": "48",
+    "InternalName": "Building48"
+  },
+  {
+    "Id": "49",
+    "InternalName": "Building49"
+  },
+  {
+    "Id": "50",
+    "InternalName": "Building50"
+  },
+  {
+    "Id": "51",
+    "InternalName": "Building51"
+  },
+  {
+    "Id": "52",
+    "InternalName": "Building52"
+  },
+  {
+    "Id": "53",
+    "InternalName": "Building53"
+  },
+  {
+    "Id": "54",
+    "InternalName": "Building54"
+  },
+  {
+    "Id": "55",
+    "InternalName": "Building55"
+  },
+  {
+    "Id": "56",
+    "InternalName": "Building56"
+  },
+  {
+    "Id": "57",
+    "InternalName": "Building57"
+  },
+  {
+    "Id": "58",
+    "InternalName": "Building58"
+  },
+  {
+    "Id": "59",
+    "InternalName": "Building59"
+  },
+  {
+    "Id": "60",
+    "InternalName": "Building60"
+  },
+  {
+    "Id": "61",
+    "InternalName": "Building61"
+  },
+  {
+    "Id": "62",
+    "InternalName": "Building62"
+  },
+  {
+    "Id": "63",
+    "InternalName": "Building63"
+  },
+  {
+    "Id": "64",
+    "InternalName": "Building64"
+  },
+  {
+    "Id": "65",
+    "InternalName": "Building65"
+  }
+]
